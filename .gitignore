@@ -1,0 +1,5 @@
+/workers/_build
+/workers/cover
+/workers/deps
+/workers/erl_crash.dump
+/workers/*.ez
